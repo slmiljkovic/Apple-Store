@@ -1,6 +1,6 @@
 # Apple-Store
 
-Data set that converts informayion about apps avaible on apple store from Kaggle
+Data set that converts informayion about apps avaible on apple store from Kaggle ,
 link for data is https://drive.google.com/drive/folders/14O9xB8N1gXN_67ouphImQkvpzyitmTfR
 Using SQLite 3 analyzing apps and trends
 1. Whitch apps have better training
